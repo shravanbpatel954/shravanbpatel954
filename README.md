@@ -83,18 +83,19 @@ Real-time typing competition system
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shravanbpatel954&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shravanbpatel954&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbpatel954&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shravanbpatel954&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=shravanbpatel954&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -120,6 +121,9 @@ https://shravanbpatel954.github.io/my-portfolio-webdeveloper/
 
 💼 LinkedIn
 https://www.linkedin.com/in/shravan-kumar-patel/
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/shravanbpatel954/shravanbpatel954/blob/output/github-contribution-grid-snake.svg)
 
 🌍 Location
 Mumbai, India
