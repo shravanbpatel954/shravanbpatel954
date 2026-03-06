@@ -22,7 +22,7 @@ Building scalable applications and exploring DevOps & cloud systems.
 * 🎓 MCA Student – BVIMIT
 * ⚙️ Familiar with **DevOps concepts & cloud deployment**
 * 🤖 Building **AI-powered applications**
-* 🌍 Based in **Mumbai, India**
+
 
 🎯 **Career Goal**
 
