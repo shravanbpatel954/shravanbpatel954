@@ -1,44 +1,32 @@
-<!-- PROFILE HEADER -->
+<!-- HEADER -->
 
-<h1 align="center">Hi 👋, I'm Shravankumar Patel</h1>
-
-<h3 align="center">
-Full-Stack Developer | DevOps Enthusiast | AI-Powered Web Applications
-</h3>
+<h1 align="center">Hi 👋 I'm Shravankumar Patel</h1>
 
 <p align="center">
-Building scalable applications, exploring DevOps, and turning ideas into real products.
+Full-Stack Developer • DevOps Enthusiast • AI Applications
+</p>
+
+<p align="center">
+Building scalable applications and exploring DevOps & cloud systems.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Building+Real+World+Projects;AI+Powered+Applications"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 MCA Student passionate about **software engineering and DevOps**
+* 💻 Full Stack Developer
+* 🎓 MCA Student – BVIMIT
+* ⚙️ Familiar with **DevOps concepts & cloud deployment**
+* 🤖 Building **AI-powered applications**
+* 🌍 Based in **Mumbai, India**
 
-💻 Full-Stack Developer experienced in building **production-ready web applications**
+🎯 **Career Goal**
 
-⚙️ Familiar with **DevOps concepts, containerization, deployment, and cloud hosting**
-
-🤖 Interested in building **AI-powered applications and scalable systems**
-
-🌱 Currently exploring
-
-* DevOps & Cloud Infrastructure
-* CI/CD pipelines
-* System design
-* AI-integrated web applications
-
-🎯 Career Goal
-To work as a **DevOps / Software Engineer** building reliable and scalable systems.
-
----
-
-# 🌐 Portfolio
-
-🔗 **Portfolio Website**
-
-https://shravanbpatel954.github.io/my-portfolio-webdeveloper/
+Become a **DevOps / Software Engineer** building scalable and reliable systems.
 
 ---
 
@@ -59,7 +47,7 @@ https://shravanbpatel954.github.io/my-portfolio-webdeveloper/
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Databases
@@ -74,84 +62,31 @@ https://shravanbpatel954.github.io/my-portfolio-webdeveloper/
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman"/>
 </p>
 
-### Deployment Platforms
-
-Render • Railway • Firebase
-
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-## 📚 StudyBuddy – AI Powered Learning Platform
-
-Full-stack adaptive learning platform with AI-driven recommendations.
-
-**Tech Stack**
-
-React.js • Node.js • MongoDB • AI APIs
-
-Live Demo
-
+🔹 **StudyBuddy**
+AI powered adaptive learning platform
 https://studybuddy-kc2m.onrender.com/
 
----
-
-## 🎤 Prepa – AI Interview Preparation Platform
-
-AI-powered interview practice system with speech analysis.
-
-Features
-
-• Video interview recording
-• Speech-to-text transcription
-• AI evaluation
-
-Live Demo
-
+🔹 **Prepa – AI Interview Prep**
+AI interview preparation platform
 https://prepa-d7e15.web.app/
 
-Source Code
-
-https://github.com/shravanbpatel954/Prepa-AI-Interview-Prep
-
----
-
-## 🧠 AIO – Academic Information Organizer
-
-Full-stack application for managing academic information.
-
-Tech Stack
-
-React.js • Node.js • MongoDB
-
-Live Demo
-
+🔹 **AIO – Academic Information Organizer**
+Full stack academic management system
 https://aio-5igz.onrender.com/
 
----
-
-## 🛍 Lakshwear – Startup Collaboration
-
-Worked with a startup to improve their e-commerce platform.
-
-Key Work
-
-• UI/UX improvements
-• Backend integrations
-• Production deployment
-
-Website
-
-https://lakshwear.in/
+🔹 **TypeSprint**
+Real-time typing competition system
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=shravanbpatel954&show_icons=true&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -159,9 +94,7 @@ https://lakshwear.in/
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=shravanbpatel954&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -169,45 +102,18 @@ https://lakshwear.in/
 # 📈 Most Used Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbpatel954&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 💼 Experience
+# 🌐 Portfolio
 
-### Freelance Full-Stack Web Developer
-
-2023 – Present
-
-• Delivered **5+ full-stack applications for startups**
-• Built scalable APIs and responsive frontends
-• Deployed applications using modern cloud platforms
-• Worked directly with clients to deliver production systems
+https://shravanbpatel954.github.io/my-portfolio-webdeveloper/
 
 ---
 
-# 🎓 Education
-
-**Master of Computer Applications (MCA)**
-BVIMIT – Navi Mumbai
-
-**B.Sc Computer Science**
-NES Ratnam College – Mumbai
-
----
-
-# 📜 Certifications
-
-✔ Full-Stack Web Development – DevTown
-
-✔ Web Development Training – Internshala / Skill India / NSDC
-
----
-
-# 🌎 Connect With Me
+# 📫 Connect With Me
 
 📧 Email
 [shravan.b.patel954@gmail.com](mailto:shravan.b.patel954@gmail.com)
@@ -215,13 +121,5 @@ NES Ratnam College – Mumbai
 💼 LinkedIn
 https://www.linkedin.com/in/shravan-kumar-patel/
 
-💻 GitHub
-https://github.com/shravanbpatel954
-
-📍 Mumbai, India
-
----
-
-# ⚡ Fun Fact
-
-I enjoy turning **simple ideas into real software products** that people can actually use.
+🌍 Location
+Mumbai, India
