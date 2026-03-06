@@ -1,32 +1,33 @@
-<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Shravankumar Patel</h1>
 
-<h1 align="center">Hi 👋 I'm Shravankumar Patel</h1>
-
-<p align="center">
+<h3 align="center">
 Full-Stack Developer • DevOps Enthusiast • AI Applications
+</h3>
+
+<p align="center">
+Building scalable applications and exploring DevOps, cloud infrastructure and AI powered systems.
 </p>
 
 <p align="center">
-Building scalable applications and exploring DevOps & cloud systems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DevOps+Enthusiast;AI+Powered+Applications;Building+Real+World+Projects"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Building+Real+World+Projects;AI+Powered+Applications"/>
+<img src="https://komarev.com/ghpvc/?username=shravanbpatel954&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-* 💻 Full Stack Developer
-* 🎓 MCA Student – BVIMIT
-* ⚙️ Familiar with **DevOps concepts & cloud deployment**
-* 🤖 Building **AI-powered applications**
-
+* 💻 Full-Stack Developer focused on building **production-ready web applications**
+* 🎓 MCA Student – **BVIMIT**
+* ⚙️ Familiar with **DevOps concepts, containerization, and cloud deployment**
+* 🤖 Building **AI-powered platforms and developer tools**
 
 🎯 **Career Goal**
 
-Become a **DevOps / Software Engineer** building scalable and reliable systems.
+To grow as a **DevOps / Software Engineer** and build **scalable, reliable cloud systems.**
 
 ---
 
@@ -34,83 +35,88 @@ Become a **DevOps / Software Engineer** building scalable and reliable systems.
 
 ### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=javascript,python,java"/>
 </p>
 
 ### Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase"/>
 </p>
 
 ### DevOps & Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman"/>
 </p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-🔹 **StudyBuddy**
-AI powered adaptive learning platform
-https://studybuddy-kc2m.onrender.com/
+### 📚 StudyBuddy
 
-🔹 **Prepa – AI Interview Prep**
-AI interview preparation platform
-https://prepa-d7e15.web.app/
+AI-powered adaptive learning platform designed to personalize study plans.
 
-🔹 **AIO – Academic Information Organizer**
-Full stack academic management system
-https://aio-5igz.onrender.com/
-
-🔹 **TypeSprint**
-Real-time typing competition system
+🔗 https://studybuddy-kc2m.onrender.com/
 
 ---
 
-## 📊 GitHub Stats
+### 🎤 Prepa – AI Interview Preparation Platform
+
+Practice interviews with AI-based feedback and analysis.
+
+🔗 https://prepa-d7e15.web.app/
+
+---
+
+### 🧠 AIO – Academic Information Organizer
+
+Full-stack platform for managing and organizing academic resources.
+
+🔗 https://aio-5igz.onrender.com/
+
+---
+
+### ⚡ TypeSprint
+
+Real-time typing competition system built with **Node.js + Socket.IO**
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shravanbpatel954&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbpatel954&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shravanbpatel954&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbpatel954&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shravanbpatel954&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbpatel954&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=shravanbpatel954&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 🌐 Portfolio
 
-https://shravanbpatel954.github.io/my-portfolio-webdeveloper/
+🔗 https://shravanbpatel954.github.io/my-portfolio-webdeveloper/
 
 ---
 
@@ -121,9 +127,11 @@ https://shravanbpatel954.github.io/my-portfolio-webdeveloper/
 
 💼 LinkedIn
 https://www.linkedin.com/in/shravan-kumar-patel/
-## 🐍 Contribution Snake
+
+📍 Mumbai, India
+
+---
+
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/shravanbpatel954/shravanbpatel954/blob/output/github-contribution-grid-snake.svg)
-
-🌍 Location
-Mumbai, India
